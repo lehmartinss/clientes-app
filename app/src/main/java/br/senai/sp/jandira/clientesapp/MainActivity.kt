@@ -21,8 +21,8 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             ClientesAppTheme {
-//                HomeScreen()
-                FormCliente()
+                HomeScreen()
+//                FormCliente()
             }
         }
     }
